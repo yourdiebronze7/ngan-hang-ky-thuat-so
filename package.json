@@ -1,0 +1,20 @@
+{
+  "name": "ngan-hang-ky-thuat-so",
+  "version": "1.0.0",
+  "description": "Một ứng dụng ví điện tử sử dụng blockchain để ghi lại và xác minh giao dịch trực tuyến giữa người dùng.",
+  "main": "index.js",
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject"
+  },
+  "dependencies": {
+    "react": "^17.0.2",
+    "react-dom": "^17.0.2",
+    "react-scripts": "4.0.3"
+  },
+  "devDependencies": {
+    "solc": "^0.8.0"
+  }
+}
