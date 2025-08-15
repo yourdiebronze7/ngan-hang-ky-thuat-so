@@ -10,8 +10,8 @@ module.exports = {
   },
   compilers: {
     solc: {
-      // Phiên bản trình biên dịch solidity
-      version: "^0.8.0"
+      // Phiên bản trình biên dịch Solidity
+      version: "^0.8.20" // Cập nhật phiên bản
     }
   }
 };
