@@ -11,7 +11,7 @@ module.exports = {
   compilers: {
     solc: {
       // Phiên bản trình biên dịch Solidity
-      version: "^0.8.20" // Cập nhật phiên bản cho phù hợp với các tiêu chuẩn mới hơn.
+      version: "^0.8.21" // Cập nhật phiên bản cho phù hợp với các tiêu chuẩn mới hơn.
     }
   }
 };
